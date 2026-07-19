@@ -40,7 +40,7 @@ export default function Hero() {
         className="relative z-10 max-w-7xl mx-auto px-6 sm:px-8 pt-40 pb-16 min-h-screen flex flex-col justify-center"
       >
         <motion.span variants={item} className="font-mono text-xs tracking-[0.4em] uppercase text-mist mb-6">
-          Portfolio / 2026
+        
         </motion.span>
 
         <motion.h1
